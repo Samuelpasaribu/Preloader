@@ -1,8 +1,3 @@
-# Cara Membuat Animasi Loading dengan Html Css dan JavaScript
-Loading animations are often encountered when there is a reload or a request for a page. The loading animation will certainly be made as attractive and beautiful as possible so that users or users do not get bored waiting.
-
-<a href="https://www.samuelpasaribu.com/2022/31/cara-membuat-animasi-loading-page.html">READ MORE</a>
-
 # Preloader
 menampilkan animasi loading atau progress bar<br/>
 <br/>
