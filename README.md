@@ -1,7 +1,7 @@
 # Preloader
 menampilkan animasi loading atau progress bar<br/>
 <br/>
-download animasi loading <a href='https://github.com/jettheme/core/archive/refs/heads/main.zip'>Download files</a><br/>
+download animasi loading <a href='https://github.com/Samuelpasaribu/Preloader/archive/refs/heads/main.zip'>Download files</a><br/>
 <a href='https://www.samuelpasaribu.com/2022/31/cara-membuat-animasi-loading-page.html'>ChangeLog</a><br/>
 <br/>
 View <a href='https://jettheme-demo.blogspot.com/'>Demo</a><br/>
